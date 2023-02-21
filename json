@@ -1,0 +1,78 @@
+[
+    {
+        "id": "1" ,
+        "nombre": "flan" ,
+        "price": 6,
+        "category": "postres",
+        "descripcion": "Nuestro flan artesano de toda la vida hecho con productos de calidad",
+        "image": "https://www.quieropostre.com/wp-content/uploads/2021/08/flan-huevo-casero-receta-abuela.jpg"
+    },
+    {
+    "id": "2" ,
+    "nombre": "Macedonia" ,
+    "price": 5,
+    "category": "postres",
+    "descripcion": "Nuestra ensladad de frutas ideal para verano hecha con fruta fresca de proximidad",
+    "image":"https://cocina-casera.com/wp-content/uploads/2012/05/macedonia-frutas-almibar.jpg"
+    },
+    {
+    "id": "3" ,
+    "nombre": "Tarta de chocolate" ,
+    "price": 8,
+    "category": "postres",
+    "descripcion": "Esponjosa tarta de chocolate a capas con inteno sabor",
+    "image":"https://assets.delirec.com/images/xurvSwwZyyM8ZX8H6gWhoark46m2/recipe/d8bf2c52-da8d-454e-be02-448bee0d5043-Torta-de-chocolate-gallery-0"
+
+
+    },
+    {
+    "id": "4" ,
+    "nombre": "Pan de cereales" ,
+    "price": 1.50,
+    "category": "Pan",
+    "descripcion": "Crujiente barra de pan de cereales hecha con masa madre y horneada al horno de piedra",
+    "image":"https://www.hogarmania.com/archivos/201802/cabi0072-joseba-pan-multicereal-1280x720x80xX.jpg"
+
+
+    },
+    {
+    "id": "5" ,
+    "nombre": "Pan de centeno" ,
+    "price": 1.75,
+    "category": "Pan",
+    "descripcion": "Este producto contiene menos gluten que los otros y tiene un sabor ligeramente amargo",
+    "image":"https://i.blogs.es/21fd88/pan-centeno2/1366_2000.jpg"
+
+
+    },
+    {
+    "id": "6" ,
+    "nombre": "Pan de espelta" ,
+    "price": 1.75,
+    "category": "Pan",
+    "descripcion": "Hecho con una variedad de trigo más digerible apto para personas con problemas intestinales",
+    "image":"https://cdn0.recetasgratis.net/es/posts/7/8/1/pan_de_espelta_integral_73187_orig.jpg"
+
+
+    },
+    {
+    "id": "7" ,
+    "nombre": "Cookies" ,
+    "price": 3,
+    "category": "Bolleria",
+    "descripcion": "Crujientes galletas con pepitas de chocolate y suave aroma a vainilla",
+    "image":"https://www.quieropostre.com/wp-content/uploads/2022/05/cookies-683x1024.jpg"
+
+
+    },
+    {
+    "id": "8" ,
+    "nombre": "Croissant" ,
+    "price": 2.50,
+    "category": "Bolleria",
+    "descripcion": "Crujientes croissants rellenos de chocolate",
+    "image":"https://www.comedera.com/wp-content/uploads/2022/02/croissant-relleno-de-chocolate.jpg"
+
+
+    }
+]
